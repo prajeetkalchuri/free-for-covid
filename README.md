@@ -204,3 +204,8 @@ A collection of tools and software provided for free for those contributing to a
 * [Medallia](https://www.medallia.com/blog/helping-nonprofits-during-covid-19-with-free-crowdsourcing-tool/).
   * Description: Crowdsourcing tool.
   * Limit: 6 months.
+  * [Maptitude]
+    Maptitude Geographic Information System (GIS) software gives you the tools, maps, and demographic data you need to analyze and understand how geography affects you and your     business.
+* [Google Maps API]
+  Google Maps API is a mapping platform that includes driving directions, Street View imagery and others.\
+
